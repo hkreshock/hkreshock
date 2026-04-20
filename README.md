@@ -56,24 +56,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hkreshock&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
----
-
-### 📌 Pinned Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [googleHashCode2021](https://github.com/hkreshock/googleHashCode2021) | Solution to the Google Hash Code 2021 competition | JavaScript |
-| [VueTemplate](https://github.com/hkreshock/VueTemplate) | Reusable Vue.js project template to bootstrap new apps quickly | JavaScript / Vue |
-| [ExpressTemplate](https://github.com/hkreshock/ExpressTemplate) | Reusable Express.js project template for Node APIs | JavaScript / Express |
-
----
-
 <p align="center">
   <i>Open to collaborations, code reviews, and interesting side projects. Feel free to reach out!</i>
 </p>
